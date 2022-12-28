@@ -3,7 +3,7 @@ import '../styles/App.css';
 import Welcome from './Welcome';
 
 const App = () => {
-  let name="nimi";
+  let name = "Nimi";
   return (
     <Welcome name={name} />
   )
